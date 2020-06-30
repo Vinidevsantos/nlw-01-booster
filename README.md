@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Vinidevsantos/nlw-01-booster">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vinidevsantos/nlw-01-booster">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vinidevsantos?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Vinidevsantos/nlw-01-booster?style=social">
 </p>
 
 <br>
@@ -55,3 +57,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+Contribuicao by Vinicius Santos :wave: [Get in touch!](https://www.linkedin.com/in/vinidesousa/)
