@@ -19,7 +19,9 @@
 </p>
 <br>
 
-<a href="https://nlw-01-booster.vercel.app/">Vercel Link</a> 
+<p align="center">
+     <a href="https://nlw-01-booster.vercel.app/"><strong>Vercel Link</strong></a> 
+</p>
 
 <br>
 <p align="center">
