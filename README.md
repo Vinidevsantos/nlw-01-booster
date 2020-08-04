@@ -19,9 +19,10 @@
 </p>
 
 <br>
-
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+    <a href="https://nlw-01-booster.vercel.app/">
+        <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+    </a>
 </p>
 
 ## 🚀 Tecnologias
